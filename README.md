@@ -37,3 +37,11 @@ and practising Embedded C for my VLSI projects and also had developed few image 
 ### Tools and Libraries
 
 <img src='/images/python.jpg' width=30> <img src='/images/vscode.jpg' width=30> <img src='/images/SSIS.png' width=30> <img src='/images/ssms.png' width=30> <img src='/images/aws.png' width=50> <img src='/images/excel.png' width=30> <img src='/images/tableau.png' width=50> <img src='/images/jupyter.png' width=30> <img src='/images/mysql.png' width=50> <img src='/images/pytorch.png' width=30>
+
+### Certifications
+
+- [MySQL for Data Analytics and Business Intelligence](https://github.com/sauravkmr992/sauravkmr992/blob/master/Certificates/MySQL%20for%20Data%20Analytics%20and%20Business%20Intelligence.pdf)
+- [Modern WebScraping with Python using Scrapy Splash and Selenium](https://github.com/sauravkmr992/sauravkmr992/blob/master/Certificates/Modern%20Web%20Scraping%20using%20Scrapy%20Splash%20Selenium.pdf)
+- [AWS Certified Developer Associate 2020](https://github.com/sauravkmr992/sauravkmr992/blob/master/Certificates/AWS%20Certified%20Developer%20Certificate.pdf)
+- [Tableau 10 A-Z: Hands On Tableau Training for Data Science](https://github.com/sauravkmr992/sauravkmr992/blob/master/Certificates/Tableau%2010%20A-Z.pdf)
+- [Microsoft Excel from Beginner to Expert](https://github.com/sauravkmr992/sauravkmr992/blob/master/Certificates/Microsoft%20Excel-%20From%20Beginner%20to%20Expert.pdf)
