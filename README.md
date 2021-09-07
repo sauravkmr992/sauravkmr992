@@ -36,3 +36,4 @@ and practising Embedded C for my VLSI projects and also had developed few image 
 
 ### Tools and Libraries
 
+<img src='/images/python.jpg' width=30> <img src='/images/vscode.jpg' width=30> <img src='/images/SSIS.png' width=30> <img src='/images/ssms.png' width=30> <img src='/images/aws.png' width=50> <img src='/images/excel.png' width=30> <img src='/images/tableau.png' width=50> <img src='/images/jupyter.png' width=30> <img src='/images/mysql.png' width=50> <img src='/images/pytorch.png' width=30>
