@@ -1,6 +1,6 @@
 ### Hello,
 
-This is Saurav Kumar working as Data Engineer in Wipro. 
+This is Saurav Kumar working as Data Engineer in Valiance Solutions. 
 
 In my work currently, I use `SSIS` to handle all of my ETL use cases and `SSMS` for all the data definition and manipulation tasks. In my current role I have written many complex 
 and efficient T-SQL queries to make the data ready to be analysed. I believe , I have a good intution for the data which I have developed through consistent practise.Apart 
